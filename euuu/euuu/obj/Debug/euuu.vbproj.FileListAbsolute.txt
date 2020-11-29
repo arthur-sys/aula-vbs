@@ -1,0 +1,17 @@
+C:\Users\Arthur\Desktop\euuu\euuu\bin\Debug\euuu.exe.config
+C:\Users\Arthur\Desktop\euuu\euuu\bin\Debug\euuu.exe
+C:\Users\Arthur\Desktop\euuu\euuu\bin\Debug\euuu.pdb
+C:\Users\Arthur\Desktop\euuu\euuu\bin\Debug\euuu.xml
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.vbprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.Form1.resources
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.Resources.resources
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.vbproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.vbproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.exe
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.xml
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.pdb
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.Frm_clientes.resources
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.fornecedores.resources
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.Frm_Funcionarios.resources
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\Interop.ADODB.dll
+C:\Users\Arthur\Desktop\euuu\euuu\obj\Debug\euuu.vbproj.ResolveComReference.cache
